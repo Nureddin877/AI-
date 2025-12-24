@@ -5,7 +5,7 @@
 **Seed:** 20240103  
 
 ## Presentation
-[View Presentation Slides](https://drive.google.com/file/d/1aKQGAqMrf05xZMDvl13if1D2mBMcBeja/view?usp=drive_link)
+[View Presentation Slides.(https://drive.google.com/file/d/1aKQGAqMrf05xZMDvl13if1D2mBMcBeja/view?usp=drivesdk)
 
 ## Dataset
 - **Name:** CIFAR-10 filtered  
